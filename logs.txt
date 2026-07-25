@@ -1,0 +1,32 @@
+[2026-07-25 11:04:52] EVENTO: Cliente registrado: Pedro Tovar
+[2026-07-25 11:04:52] EVENTO: Cliente agregado: Pedro Tovar
+[2026-07-25 11:04:52] EVENTO: Proceso de registro de cliente finalizado.
+[2026-07-25 11:04:52] EVENTO: Cliente registrado: Maria Perez
+[2026-07-25 11:04:52] EVENTO: Cliente agregado: Maria Perez
+[2026-07-25 11:04:52] EVENTO: Proceso de registro de cliente finalizado.
+[2026-07-25 11:04:52] EVENTO: Proceso de creación del servicio finalizado.
+[2026-07-25 11:04:52] EVENTO: Proceso de creación del servicio finalizado.
+[2026-07-25 11:04:52] EVENTO: Proceso de creación del servicio finalizado.
+[2026-07-25 11:04:52] EVENTO: Reserva creada para Pedro Tovar.
+[2026-07-25 11:04:52] EVENTO: Reserva agregada para Pedro Tovar
+[2026-07-25 11:04:52] EVENTO: Proceso de creación de reserva finalizado.
+[2026-07-25 11:04:52] EVENTO: Reserva creada para Maria Perez.
+[2026-07-25 11:04:52] EVENTO: Reserva agregada para Maria Perez
+[2026-07-25 11:04:52] EVENTO: Proceso de creación de reserva finalizado.
+[2026-07-25 11:04:52] EVENTO: Reserva confirmada.
+[2026-07-25 11:04:52] EVENTO: Proceso de confirmación finalizado.
+[2026-07-25 11:04:52] EVENTO: Reserva cancelada.
+[2026-07-25 11:04:52] EVENTO: Proceso de cancelación finalizado.
+[2026-07-25 11:04:52] EVENTO: Proceso de cálculo del costo finalizado.
+[2026-07-25 11:04:52] EVENTO: Proceso de cálculo del costo finalizado.
+[2026-07-25 11:04:52] EVENTO: Proceso de cálculo del costo finalizado.
+[2026-07-25 11:04:52] EVENTO: Proceso de cálculo del costo finalizado.
+[2026-07-25 11:04:52] ERROR: Nombre de cliente inválido.
+[2026-07-25 11:04:52] ERROR: El nombre debe tener mínimo 3 caracteres.
+[2026-07-25 11:04:52] EVENTO: Proceso de registro de cliente finalizado.
+[2026-07-25 11:04:52] ERROR: Servicio inexistente: fotocopia
+[2026-07-25 11:04:52] ERROR: El servicio solicitado no existe.
+[2026-07-25 11:04:52] EVENTO: Proceso de creación del servicio finalizado.
+[2026-07-25 11:04:52] ERROR: Duración inválida al crear una reserva.
+[2026-07-25 11:04:52] ERROR: La duración debe ser mayor que cero.
+[2026-07-25 11:04:52] EVENTO: Proceso de creación de reserva finalizado.
